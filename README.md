@@ -11,3 +11,29 @@ Click the green button `< > Code` at the top-right of this page. Then, click `Do
 ## Notebook licenses:
 - Code: GNU-GPL v.3
 - Narrative: CC BY-NC-SA
+
+# My addition - notes and setup instructions
+
+## Create a virtual python environment [one time only]
+
+`python3.10 -m venv venv`
+
+## Activate venv
+
+from this folder,
+
+`source venv/bin/activate`
+
+## Install Jupyterlab in venv
+
+after activating venv
+
+`pip install jupyterlab`
+
+## Run Jupyterlab
+
+` jupyter lab`
+
+or 
+
+`./runJupyterlab.sh`
