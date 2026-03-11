@@ -1,0 +1,3 @@
+minimum: 15.74
+maximum: 20.0
+total: 54.84
